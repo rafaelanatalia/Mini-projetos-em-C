@@ -11,7 +11,9 @@
   <a href="https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/idades.c" <h1> Idades</h1> <div>
   <a href=https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/soma%20de%20preco.c" <h1> Soma de preço</h1> <div>
   <a href="https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/calculadora.c" <h1> Calculadora</h1> <div>
- 
+ <a href="https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/tabuada.c" <h1> Tabuada</h1> <div>
+ <a href="https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/controle%20financeiro%20kids.c" <h1> controle Financeiro</h1> <div>
+ <a href="https://github.com/rafaelanatalia/Mini-projetos-em-C/blob/main/consumo%20de%20calorias.c" <h1> consumo de calorias</h1> <div>
 
 
 <h2>🤓💻Linguagem Usadas🤓💻</h2>
