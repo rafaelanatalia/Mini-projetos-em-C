@@ -21,4 +21,5 @@ int main(){
 	printf(" O total é: R$%.2lf",total);
 	printf ("A média de foi: R$%.2lf",media);
 	
+    
 	}
